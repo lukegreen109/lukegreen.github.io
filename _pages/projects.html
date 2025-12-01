@@ -1,0 +1,22 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+collection: projects
+entries_layout: list
+---
+
+Here are some projects I've worked on:
+
+{% for project in site.projects %}
+  <h3>{{ project.title }}</h3>
+  <p>{{ project.excerpt }}</p>
+  {% if project.codeurl %}
+    <a href="{{ project.codeurl }}" target="_blank">Code</a>
+  {% endif %}
+  {% if project.pdfurl %}
+    | <a href="{{ project.pdfurl }}" target="_blank">Paper</a>
+  {% endif %}
+  <hr>
+{% endfor %}

@@ -11,7 +11,7 @@ I am a math masters student at Brigham Young University set to graduate April 20
 
 Research Interests
 ======
-My interests are centered around the Mathematics of Machine Learning. I appreciate rigorous mathematical treatment of machine learning methods, and I am especially interested in foundational understanding of deep learning and neural networks.
+My interests are centered around the Mathematics of Machine Learning/Deep Learning. More specifically, my interests include
 
 - Uncertainty Quantification
 - Sampling Methods
@@ -20,5 +20,3 @@ My interests are centered around the Mathematics of Machine Learning. I apprecia
 - Active Learning
 - Graph Based Methods
 - Vision/Image Classification
-
-I would like to get more involved with applications to energy and neuroscience.

@@ -7,6 +7,7 @@ excerpt: 'Product-price attribution, the task of retrieving product pricing info
 date: 2025-08-01
 venue: 'Submitted to the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining'
 paperurl: /files/price_lens_kdd26.pdf
+codeurl: "https://github.com/delicious-ai/price-net"
 citation: 'Young, S., Jenkins, S., Green, L., Miller, K. & Jenkins, P. (2026). "Learning to Attribute Products to Prices in Retail Shelf Images." <i>32nd SIGKDD Conference on Knowledge Discovery and Data Mining</i> [Under Review].'
 
 ---
